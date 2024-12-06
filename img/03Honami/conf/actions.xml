@@ -1,0 +1,1629 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Mascot xmlns="http://www.group-finity.com/Mascot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.group-finity.com/Mascot Mascot.xsd">
+
+	<ActionList>
+		<Action Name="Look" Type="Embedded" Class="com.group_finity.mascot.action.Look" />
+		<Action Name="Offset" Type="Embedded" Class="com.group_finity.mascot.action.Offset" />
+
+		<!-- Standing -->
+
+		<Action Name="Stand" Type="Stay" BorderType="Floor">
+			<Animation>
+				<Pose Image="/idle/idle_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_5.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_6.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_7.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_8.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_9.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_10.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_11.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_12.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_13.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_14.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_15.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_16.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_17.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_18.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_19.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_20.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_21.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_22.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_23.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_24.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_25.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_26.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_27.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_28.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_29.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_30.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_31.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_32.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_33.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_34.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_35.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_36.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_37.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_38.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_39.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_40.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_41.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_42.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_43.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_44.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_45.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_46.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_47.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_48.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_49.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_50.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_51.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_52.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_53.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_54.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_55.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_56.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_57.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_58.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_59.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_60.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_61.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_62.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_63.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_64.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_65.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_66.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_67.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_68.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_69.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_70.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_71.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_72.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_73.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_74.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_75.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_76.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_77.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_78.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_79.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_80.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/idle/idle_81.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+
+		<Action Name="Walk" Type="Move" BorderType="Floor">
+			<Animation>
+				<Pose Image="/walk/walk_1.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_2.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_3.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_4.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_5.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_6.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_7.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_8.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_9.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_10.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_11.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_12.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_13.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_14.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_15.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_16.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_17.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_18.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_19.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_20.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_21.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_22.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_23.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_24.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_25.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_26.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_27.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_28.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_29.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_30.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_31.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_32.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_33.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_34.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_35.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_36.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_37.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_38.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_39.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_40.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_41.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_42.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_43.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_44.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_45.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_46.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_47.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_48.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_49.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_50.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_51.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_52.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_53.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/walk/walk_54.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+			</Animation>
+		</Action>
+
+		<Action Name="Run" Type="Move" BorderType="Floor">
+			<Animation>
+				<Pose Image="/run/run_1.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_2.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_3.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_4.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_5.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_6.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_7.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_8.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_9.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_10.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_11.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_12.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_13.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_14.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_15.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_16.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_17.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_18.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_19.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_20.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_21.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_22.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_23.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_24.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_25.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_26.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_27.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_28.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_29.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_30.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_31.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_32.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_33.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_34.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_35.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_36.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_37.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_38.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_39.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_40.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_41.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_42.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_43.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/run/run_44.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+			</Animation>
+		</Action>
+
+		<Action Name="Dash" Type="Move" BorderType="Floor">
+			<Animation>
+				<Pose Image="/run/run_1.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_2.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_3.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_4.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_5.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_6.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_7.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_8.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_9.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_10.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_11.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_12.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_13.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_14.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_15.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_16.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_17.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_18.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_19.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_20.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_21.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_22.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_23.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_24.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_25.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_26.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_27.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_28.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_29.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_30.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_31.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_32.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_33.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_34.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_35.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_36.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_37.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_38.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_39.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_40.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_41.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_42.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_43.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+				<Pose Image="/run/run_44.png" ImageAnchor="100,190" Velocity="-8,0" Duration="2" />
+			</Animation>
+		</Action>
+
+		<!-- Sitting -->
+
+		<Action Name="Sit" Type="Stay" BorderType="Floor">
+			<Animation>
+				<Pose Image="/sit/sit_1.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_2.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_3.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_4.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_5.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_6.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_7.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_8.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_9.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_10.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_11.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_12.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_13.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_14.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_15.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_16.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_17.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_18.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_19.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_20.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_21.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_22.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_23.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_24.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_25.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_26.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_27.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_28.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_29.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_30.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_31.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_32.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_33.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_34.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_35.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_36.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_37.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_38.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_39.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_40.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_41.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_42.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_43.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_44.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_45.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_46.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_47.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_48.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_49.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_50.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_51.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_52.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_53.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_54.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_55.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_56.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_57.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_58.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_59.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_60.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_61.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_62.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_63.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_64.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_65.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_66.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_67.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_68.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_69.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_70.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_71.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_72.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_73.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_74.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_75.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_76.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_77.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_78.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_79.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_80.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_81.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_82.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_83.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_84.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_85.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_86.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_87.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_88.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_89.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_90.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_91.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_92.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_93.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_94.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_95.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_96.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_97.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_98.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_99.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_100.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_101.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_102.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_103.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_104.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_105.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_106.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_107.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_108.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_109.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_110.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_111.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_112.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_113.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_114.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_115.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_116.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_117.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_118.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_119.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_120.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_121.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_122.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_123.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_124.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_125.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_126.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_127.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_128.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_129.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_130.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_131.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_132.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_133.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_134.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_135.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_136.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_137.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_138.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_139.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_140.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+				<Pose Image="/sit/sit_141.png" ImageAnchor="100,165" Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+
+
+		<!-- Laying -->
+
+		<Action Name="Sprawl" Type="Stay" BorderType="Floor">
+			<Animation>
+				<Pose Image="/dash/dash_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_5.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_6.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_7.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_8.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_9.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+
+		<Action Name="Creep" Type="Move" BorderType="Floor">
+			<Animation>
+				<Pose Image="/dash/dash_1.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_2.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_3.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_4.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_5.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_6.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_7.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_8.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_9.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+			</Animation>
+		</Action>
+	
+		<Action Name="Joy" Type="Stay" BorderType="Floor">
+			<Animation>
+				<Pose Image="/joy/joy_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_5.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_6.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_7.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_8.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_9.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_10.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_11.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_12.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_13.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_14.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_15.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_16.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_17.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_18.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_19.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_20.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_21.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_22.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_23.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_24.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_25.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_26.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_27.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_28.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_29.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_30.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_31.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_32.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_33.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_34.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_35.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_36.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_37.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_38.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+
+
+		<Action Name="Talk" Type="Stay" BorderType="Floor">
+			<Animation>
+				<Pose Image="/talk/talk_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_5.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_6.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_7.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_8.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_9.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_10.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_11.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_12.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_13.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_14.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_15.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_16.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_17.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_18.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_19.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_20.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_21.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_22.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_23.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_24.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_25.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_26.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_27.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_28.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_29.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_30.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_31.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_32.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_33.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_34.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_35.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_36.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_37.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_38.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_39.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_40.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_41.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_42.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_43.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_44.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_45.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_46.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_47.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_48.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_49.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_50.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_51.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_52.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_53.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_54.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_55.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_56.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_57.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_58.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_59.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/talk/talk_60.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+
+		<Action Name="Listen" Type="Stay" BorderType="Floor">
+			<Animation>
+				<Pose Image="/listen/listen_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_5.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_6.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_7.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_8.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_9.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_10.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_11.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_12.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_13.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_14.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_15.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_16.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_17.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_18.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_19.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_20.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_21.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_22.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_23.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_24.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_25.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_26.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_27.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_28.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_29.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_30.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_31.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_32.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_33.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_34.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_35.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_36.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_37.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_38.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_39.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_40.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_41.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_42.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_43.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_44.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_45.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_46.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_47.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_48.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_49.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_50.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_51.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_52.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_53.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_54.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_55.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_56.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_57.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_58.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_59.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/listen/listen_60.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+
+		<Action Name="Angry" Type="Stay" BorderType="Floor">
+			<Animation>
+				<Pose Image="/angry/angry_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_5.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_6.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_7.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_8.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_9.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_10.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_11.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_12.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_13.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_14.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_15.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_16.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_17.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_18.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_19.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_20.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_21.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_22.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_23.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_24.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_25.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_26.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_27.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_28.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_29.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_30.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_31.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_32.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_33.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_34.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_35.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_36.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_37.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_38.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_39.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_40.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+
+		<!-- Ceiling -->
+
+		<Action Name="GrabCeiling" Type="Stay" BorderType="Ceiling">
+			<Animation>
+				<Pose Image="/idleu/idleu_1.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_2.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_3.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_4.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_5.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_6.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_7.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_8.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_9.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_10.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_11.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_12.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_13.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_14.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_15.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_16.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_17.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_18.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_19.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_20.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_21.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_22.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_23.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_24.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_25.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_26.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_27.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_28.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_29.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_30.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_31.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_32.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_33.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_34.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_35.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_36.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_37.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_38.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_39.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_40.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_41.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_42.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_43.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_44.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_45.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_46.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_47.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_48.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_49.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_50.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_51.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_52.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_53.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_54.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_55.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_56.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_57.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_58.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_59.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_60.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_61.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_62.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_63.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_64.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_65.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_66.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_67.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_68.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_69.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_70.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_71.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_72.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_73.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_74.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_75.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_76.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_77.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_78.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_79.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_80.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+				<Pose Image="/idleu/idleu_81.png" ImageAnchor="100,10"  Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+		
+		<Action Name="ClimbCeiling" Type="Move" BorderType="Ceiling">
+			<Animation>
+				<Pose Image="/walku/walku_1.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_2.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_3.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_4.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_5.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_6.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_7.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_8.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_9.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_10.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_11.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_12.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_13.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_14.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_15.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_16.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_17.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_18.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_19.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_20.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_21.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_22.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_23.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_24.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_25.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_26.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_27.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_28.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_29.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_30.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_31.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_32.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_33.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_34.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_35.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_36.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_37.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_38.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_39.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_40.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_41.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_42.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_43.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_44.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_45.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_46.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_47.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_48.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_49.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_50.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_51.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_52.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_53.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+				<Pose Image="/walku/walku_54.png" ImageAnchor="100,10"  Velocity="-2,0" Duration="3" />
+			</Animation>
+		</Action>
+
+		<!-- Wall -->
+
+		<Action Name="GrabWall" Type="Stay" BorderType="Wall">
+			<Animation>
+				<Pose Image="/idlel/idlel_1.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_2.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_3.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_4.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_5.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_6.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_7.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_8.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_9.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_10.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_11.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_12.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_13.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_14.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_15.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_16.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_17.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_18.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_19.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_20.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_21.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_22.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_23.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_24.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_25.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_26.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_27.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_28.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_29.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_30.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_31.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_32.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_33.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_34.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_35.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_36.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_37.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_38.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_39.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_40.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_41.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_42.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_43.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_44.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_45.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_46.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_47.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_48.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_49.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_50.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_51.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_52.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_53.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_54.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_55.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_56.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_57.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_58.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_59.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_60.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_61.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_62.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_63.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_64.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_65.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_66.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_67.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_68.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_69.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_70.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_71.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_72.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_73.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_74.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_75.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_76.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_77.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_78.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_79.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_80.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+				<Pose Image="/idlel/idlel_81.png" ImageAnchor="95,100" Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+		<Action Name="ClimbWall" Type="Move" BorderType="Wall">
+			<Animation Condition="#{TargetY &lt; mascot.anchor.y}">
+				<Pose Image="/shime1.png" ImageAnchor="90,100" Velocity="-2,0" Duration="3" />
+				<Pose Image="/shime1.png" ImageAnchor="90,100" Velocity="-2,0" Duration="3" />
+			</Animation>
+
+			<Animation Condition="#{TargetY &gt;= mascot.anchor.y}">
+				<Pose Image="/shime1.png" ImageAnchor="90,100" Velocity="-2,0" Duration="3" />
+				<Pose Image="/shime1.png" ImageAnchor="90,100" Velocity="-2,0" Duration="3" />
+			</Animation>
+		</Action>
+
+		<!-- IE -->
+
+		<Action Name="FallWithIe" Type="Embedded" Class="com.group_finity.mascot.action.FallWithIE"
+			 IeOffsetX="0" IeOffsetY="-100">
+			<Animation>
+				<Pose Image="/dash/dash_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_5.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_6.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_7.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_8.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/dash/dash_9.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+		<Action Name="WalkWithIe" BorderType="Floor" Type="Embedded" Class="com.group_finity.mascot.action.WalkWithIE"
+			 IeOffsetX="0" IeOffsetY="-100">
+			<Animation>
+				<Pose Image="/dash/dash_1.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_2.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_3.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_4.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_5.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_6.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_7.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_8.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_9.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+			</Animation>
+		</Action>
+		<Action Name="RunWithIe" BorderType="Floor" Type="Embedded" Class="com.group_finity.mascot.action.WalkWithIE"
+			 IeOffsetX="0" IeOffsetY="-100">
+			<Animation>
+				<Pose Image="/dash/dash_1.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/dash/dash_2.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/dash/dash_3.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/dash/dash_4.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/dash/dash_5.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/dash/dash_6.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/dash/dash_7.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/dash/dash_8.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+				<Pose Image="/dash/dash_9.png" ImageAnchor="100,190" Velocity="-4,0" Duration="3" />
+			</Animation>
+		</Action>
+		<Action Name="ThrowIe" BorderType="Floor" Type="Embedded" Class="com.group_finity.mascot.action.ThrowIE"
+			InitialVX="32" InitialVY="-10" Gravity="0.5">
+			<Animation>
+				<Pose Image="/beat/beat_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="2" />
+				<Pose Image="/beat/beat_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="2" />
+				<Pose Image="/beat/beat_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="2" />
+				<Pose Image="/beat/beat_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="2" />
+				<Pose Image="/beat/beat_5.png" ImageAnchor="100,190" Velocity="0,0" Duration="2" />
+				<Pose Image="/beat/beat_6.png" ImageAnchor="100,190" Velocity="0,0" Duration="2" />
+				<Pose Image="/beat/beat_7.png" ImageAnchor="100,190" Velocity="0,0" Duration="2" />
+				<Pose Image="/beat/beat_8.png" ImageAnchor="100,190" Velocity="0,0" Duration="2" />
+				<Pose Image="/beat/beat_9.png" ImageAnchor="100,190" Velocity="0,0" Duration="2" />
+				<Pose Image="/beat/beat_10.png" ImageAnchor="100,190" Velocity="0,0" Duration="2" />
+			</Animation>
+		</Action>
+
+		<!-- Falling -->
+
+		<Action Name="Jumping" Type="Embedded" Class="com.group_finity.mascot.action.Jump"
+			VelocityParam="20">
+			<Animation>
+				<Pose Image="/surprise/surprise_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="250" />
+			</Animation>
+		</Action>
+
+		<Action Name="Falling" Type="Embedded" Class="com.group_finity.mascot.action.Fall"
+			RegistanceX="0.05" RegistanceY="0.1" Gravity="2">
+			<Animation>
+				<Pose Image="/surprise/surprise_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_5.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_6.png" ImageAnchor="100,190" Velocity="0,0" Duration="30" />
+				<Pose Image="/surprise/surprise_7.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_8.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_9.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_10.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_11.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_12.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_13.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_14.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_15.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_16.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_17.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_18.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_19.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_20.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_21.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_22.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_23.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_24.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_25.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_26.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_27.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_28.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_29.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_30.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_31.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_32.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_33.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_34.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_35.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_36.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_37.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_38.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_39.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/surprise/surprise_40.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+
+		<Action Name="Bouncing" Type="Animate" BorderType="Floor">
+			<Animation>
+				<Pose Image="/angry/angry_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_5.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_6.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_7.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_8.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_9.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_10.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_11.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_12.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_13.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_14.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_15.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_16.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_17.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_18.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_19.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_20.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_21.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_22.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_23.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_24.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_25.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_26.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_27.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_28.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_29.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_30.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_31.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_32.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_33.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_34.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_35.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_36.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_37.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_38.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_39.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_40.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+
+		<Action Name="Tripping" Type="Animate" BorderType="Floor">
+			<Animation>
+				<Pose Image="/dash/dash_1.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_2.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_3.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_4.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_5.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_6.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_7.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_8.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+				<Pose Image="/dash/dash_9.png" ImageAnchor="100,190" Velocity="-2,0" Duration="3" />
+			</Animation>
+		</Action>
+
+
+		<!-- Dragging -->
+
+		<Action Name="Pinched" Type="Embedded" Class="com.group_finity.mascot.action.Dragged">
+			<Animation Condition="#{FootX &lt; mascot.environment.cursor.x-50}">
+				<Pose Image="/angry/angryl_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="5" />
+			</Animation>
+			<Animation Condition="#{FootX &lt; mascot.environment.cursor.x-30}">
+				<Pose Image="/angry/angryl_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="5" />
+			</Animation>
+			<Animation Condition="#{FootX &lt; mascot.environment.cursor.x}">
+				<Pose Image="/angry/angryl_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="5" />
+			</Animation>
+			<Animation Condition="#{FootX &gt; mascot.environment.cursor.x-10 &amp;&amp; FootX &lt; mascot.environment.cursor.x+10}">
+				<Pose Image="/angry/angryl_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="5" />
+				<Pose Image="/angry/angryr_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="5" />
+			</Animation>
+			<Animation Condition="#{FootX &lt; mascot.environment.cursor.x+30}">
+				<Pose Image="/angry/angryr_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="5" />
+			</Animation>
+			<Animation Condition="#{FootX &lt; mascot.environment.cursor.x+50}">
+				<Pose Image="/angry/angryr_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="5" />
+			</Animation>
+			<Animation Condition="#{FootX &gt;= mascot.environment.cursor.x+30}">
+				<Pose Image="/angry/angryr_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="5" />
+			</Animation>
+		</Action>
+		<Action Name="Resisting" Type="Embedded" Class="com.group_finity.mascot.action.Regist">
+			<Animation>
+				<Pose Image="/angry/angry_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_5.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_6.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_7.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_8.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_9.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_10.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_11.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_12.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_13.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_14.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_15.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_16.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_17.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_18.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_19.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_20.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_21.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_22.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_23.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_24.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_25.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_26.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_27.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_28.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_29.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_30.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_31.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_32.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_33.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_34.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_35.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_36.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_37.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_38.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_39.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/angry/angry_40.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+
+	</ActionList>
+
+	<!-- Actual Behavior -->
+	<ActionList>
+
+		<!-- ALWAYS REQUIRED -->
+		<Action Name="Fall" Type="Sequence" Loop="false">
+			<ActionReference Name="Falling"/>
+			<Action Type="Select">
+				<Action Type="Sequence" Condition="${mascot.environment.floor.isOn(mascot.anchor) ||
+					mascot.environment.activeIE.topBorder.isOn(mascot.anchor) }">
+					<ActionReference Name="Bouncing"/>
+					<ActionReference Name="Stand" Duration="${100+Math.random()*100}" />
+				</Action>
+				<ActionReference Name="GrabWall" Duration="3600000" />
+			</Action>
+		</Action>
+
+		<!-- ALWAYS REQUIRED -->
+		<Action Name="Dragged" Type="Sequence" Loop="true">
+			<ActionReference Name="Pinched"/>
+			<ActionReference Name="Resisting" />
+		</Action>
+
+		<!-- ALWAYS REQUIRED -->
+		<Action Name="Thrown" Type="Sequence" Loop="false">
+			<ActionReference Name="Falling" InitialVX="${mascot.environment.cursor.dx}" InitialVY="${mascot.environment.cursor.dy}"/>
+			<Action Type="Select">
+				<Action Type="Sequence" Condition="${mascot.environment.floor.isOn(mascot.anchor) || mascot.environment.activeIE.topBorder.isOn(mascot.anchor) }">
+					<ActionReference Name="Bouncing"/>
+					<ActionReference Name="Stand" Duration="${100+Math.random()*100}" />
+				</Action>
+				<ActionReference Name="GrabWall" Duration="3600000" />
+			</Action>
+		</Action>
+
+		<Action Name="StandUp" Type="Sequence" Loop="false">
+			<ActionReference Name="Stand" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="SitDown" Type="Sequence" Loop="false">
+			<ActionReference Name="Sit" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="LieDown" Type="Sequence" Loop="false">
+			<ActionReference Name="Sprawl" Duration="${500+Math.random()*1000}" />
+		</Action>
+	
+		<Action Name="Joying" Type="Sequence" Loop="false">
+			<ActionReference Name="Joy" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="Talking" Type="Sequence" Loop="false">
+			<ActionReference Name="Talk" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="Listening" Type="Sequence" Loop="false">
+			<ActionReference Name="Listen" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="Angrying" Type="Sequence" Loop="false">
+			<ActionReference Name="Angry" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+
+		<Action Name="HoldOntoWall" Type="Sequence" Loop="false">
+			<ActionReference Name="GrabWall" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="FallFromWall" Type="Sequence" Loop="false">
+			<ActionReference Name="Offset" X="${mascot.lookRight ? -1 : 1}" />
+			<ActionReference Name="Stand" />
+		</Action>
+
+		<Action Name="HoldOntoCeiling" Type="Sequence" Loop="false">
+			<ActionReference Name="GrabCeiling" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="FallFromCeiling" Type="Sequence" Loop="false">
+			<ActionReference Name="Offset" Y="1" />
+			<ActionReference Name="Stand" />
+		</Action>
+
+		<Action Name="WalkAlongWorkAreaFloor" Type="Sequence" Loop="false">
+			<ActionReference Name="Walk" TargetX="${mascot.environment.workArea.left+100+Math.random()*(mascot.environment.workArea.width-200)}" />
+		</Action>
+
+		<Action Name="RunAlongWorkAreaFloor" Type="Sequence" Loop="false">
+			<ActionReference Name="Run" TargetX="${mascot.environment.workArea.left+100+Math.random()*(mascot.environment.workArea.width-200)}" />
+		</Action>
+
+		<Action Name="CrawlAlongWorkAreaFloor" Type="Sequence" Loop="false">
+			<ActionReference Name="Creep" TargetX="${mascot.environment.workArea.left+100+Math.random()*(mascot.environment.workArea.width-200)}" />
+		</Action>
+
+		<Action Name="WalkLeftAlongFloorAndSit" Type="Sequence" Loop="false">
+			<ActionReference Name="Walk" TargetX="${mascot.environment.workArea.left+100+Math.random()*300}" />
+			<ActionReference Name="Stand" Duration="${20+Math.random()*20}" />
+			<ActionReference Name="Look" LookRight="true" />
+			<ActionReference Name="Stand" Duration="${20+Math.random()*20}" />
+			<ActionReference Name="Sit" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="WalkRightAlongFloorAndSit" Type="Sequence" Loop="false">
+			<ActionReference Name="Walk" TargetX="${mascot.environment.workArea.right-100-Math.random()*300}" />
+			<ActionReference Name="Stand" Duration="${20+Math.random()*20}" />
+			<ActionReference Name="Look" LookRight="false" />
+			<ActionReference Name="Stand" Duration="${20+Math.random()*20}" />
+			<ActionReference Name="Sit" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="GrabWorkAreaBottomLeftWall" Type="Sequence" Loop="false">
+			<ActionReference Name="Walk" TargetX="#{mascot.environment.workArea.left+50}" />
+			<ActionReference Name="ClimbWall" TargetY="#{mascot.environment.workArea.bottom-100}" />
+		</Action>
+
+		<Action Name="GrabWorkAreaBottomRightWall" Type="Sequence" Loop="false">
+			<ActionReference Name="Walk" TargetX="#{mascot.environment.workArea.right-50}" />
+			<ActionReference Name="ClimbWall" TargetY="#{mascot.environment.workArea.bottom-100}" />
+		</Action>
+
+		<Action Name="WalkLeftAndSit" Type="Sequence" Loop="false">
+			<ActionReference Name="Run" TargetX="${mascot.environment.workArea.left+100+Math.random()*300}" />
+			<ActionReference Name="Stand" Duration="${20+Math.random()*20}" />
+			<ActionReference Name="Look" LookRight="true" />
+			<ActionReference Name="Stand" Duration="${20+Math.random()*20}" />
+			<ActionReference Name="Sit" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="WalkRightAndSit" Type="Sequence" Loop="false">
+			<ActionReference Name="Run" TargetX="${mascot.environment.workArea.right-100-Math.random()*300}" />
+			<ActionReference Name="Stand" Duration="${20+Math.random()*20}" />
+			<ActionReference Name="Look" LookRight="false" />
+			<ActionReference Name="Stand" Duration="${20+Math.random()*20}" />
+			<ActionReference Name="Sit" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="WalkAndGrabBottomLeftWall" Type="Sequence" Loop="false">
+			<ActionReference Name="Run" TargetX="#{mascot.environment.workArea.left+50}" />
+			<ActionReference Name="ClimbWall" TargetY="#{mascot.environment.workArea.bottom-100}" />
+		</Action>
+
+		<Action Name="WalkAndGrabBottomRightWall" Type="Sequence" Loop="false">
+			<ActionReference Name="Run" TargetX="#{mascot.environment.workArea.right-50}" />
+			<ActionReference Name="ClimbWall" TargetY="#{mascot.environment.workArea.bottom-100}" />
+		</Action>
+
+		<Action Name="JumpFromBottomOfIE" Type="Sequence" Loop="false">
+			<ActionReference Name="Jumping" TargetX="${(mascot.anchor.x*3+mascot.environment.activeIE.left+Math.random()*mascot.environment.activeIE.width)/4}"
+				 TargetY="${mascot.environment.activeIE.bottom}" />
+			<ActionReference Name="GrabCeiling" Duration="${100+Math.random()*100}" />
+		</Action>
+
+		<Action Name="ClimbHalfwayAlongWall" Type="Sequence" Loop="false">
+			<ActionReference Name="ClimbWall" TargetY="${mascot.environment.workArea.top+100 + Math.random()*(mascot.environment.workArea.height-200)}" />
+		</Action>
+
+		<Action Name="ClimbAlongWall" Type="Sequence" Loop="false">
+			<ActionReference Name="ClimbWall" TargetY="#{mascot.environment.workArea.top+100}" />
+			<ActionReference Name="Offset" Y="-100" />
+			<ActionReference Name="Look" />
+			<ActionReference Name="ClimbCeiling" TargetX="${mascot.lookRight ? mascot.environment.workArea.left+Math.random()*100 : mascot.environment.workArea.right-Math.random*100}" />
+		</Action>
+
+		<Action Name="ClimbAlongCeiling" Type="Sequence" Loop="false">
+			<ActionReference Name="ClimbCeiling" TargetX="${mascot.environment.workArea.left+100+Math.random()*(mascot.environment.workArea.width-200)}" />
+		</Action>
+
+		<Action Name="WalkAlongIECeiling" Type="Sequence" Loop="false">
+			<ActionReference Name="Walk" TargetX="${mascot.environment.activeIE.left+100+Math.random()*(mascot.environment.activeIE.width-200)}" />
+		</Action>
+
+		<Action Name="RunAlongIECeiling" Type="Sequence" Loop="false">
+			<ActionReference Name="Run" TargetX="${mascot.environment.activeIE.left+100+Math.random()*(mascot.environment.activeIE.width-200)}" />
+		</Action>
+
+		<Action Name="CrawlAlongIECeiling" Type="Sequence" Loop="false">
+			<ActionReference Name="Creep" TargetX="${mascot.environment.activeIE.left+100+Math.random()*(mascot.environment.activeIE.width-200)}" />
+		</Action>
+
+		<Action Name="SitOnTheLeftEdgeOfIE" Type="Sequence" Loop="false">
+			<ActionReference Name="Walk" TargetX="${mascot.environment.activeIE.left+100+Math.random()*300}" />
+			<ActionReference Name="Stand" Duration="${100+Math.random()*100}" />
+			<ActionReference Name="Sit" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="SitOnTheRightEdgeOfIE" Type="Sequence" Loop="false">
+			<ActionReference Name="Walk" TargetX="${mascot.environment.activeIE.right-100-Math.random()*300}" />
+			<ActionReference Name="Stand" Duration="${100+Math.random()*100}" />
+			<ActionReference Name="Sit" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="JumpFromLeftEdgeOfIE" Type="Sequence" Loop="false">
+			<ActionReference Name="Walk" TargetX="${mascot.environment.activeIE.left+Math.random()*50}" />
+			<ActionReference Name="Stand" Duration="${50+Math.random()*50}" />
+			<ActionReference Name="Falling" InitialVX="${-15-Math.random()*5}" InitialVY="${-20-Math.random()*5}"/>
+			<ActionReference Name="Bouncing" />
+		</Action>
+
+		<Action Name="JumpFromRightEdgeOfIE" Type="Sequence" Loop="false">
+			<ActionReference Name="Walk" TargetX="${mascot.environment.activeIE.right-Math.random()*50}" />
+			<ActionReference Name="Stand" Duration="${50+Math.random()*50}" />
+			<ActionReference Name="Falling" InitialVX="${15+Math.random()*5}" InitialVY="${-20-Math.random()*5}"/>
+			<ActionReference Name="Bouncing" />
+		</Action>
+
+		<Action Name="WalkLeftAlongIEAndSit" Type="Sequence" Loop="false">
+			<ActionReference Name="Run" TargetX="${mascot.environment.activeIE.left+100+Math.random()*300}" />
+			<ActionReference Name="Stand" Duration="${100+Math.random()*100}" />
+			<ActionReference Name="Sit" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="WalkRightAlongIEAndSit" Type="Sequence" Loop="false">
+			<ActionReference Name="Run" TargetX="${mascot.environment.activeIE.right-100-Math.random()*300}" />
+			<ActionReference Name="Stand" Duration="${100+Math.random()*100}" />
+			<ActionReference Name="Sit" Duration="${500+Math.random()*1000}" />
+		</Action>
+
+		<Action Name="WalkLeftAlongIEAndJump" Type="Sequence" Loop="false">
+			<ActionReference Name="Run" TargetX="${mascot.environment.activeIE.left+Math.random()*50}" />
+			<ActionReference Name="Falling" InitialVX="${-15-Math.random()*5}" InitialVY="${-20-Math.random()*5}"/>
+			<ActionReference Name="Bouncing" />
+		</Action>
+
+		<Action Name="WalkRightAlongIEAndJump" Type="Sequence" Loop="false">
+			<ActionReference Name="Run" TargetX="${mascot.environment.activeIE.right-Math.random()*50}" />
+			<ActionReference Name="Falling" InitialVX="${15+Math.random()*5}" InitialVY="${-20-Math.random()*5}"/>
+			<ActionReference Name="Bouncing" />
+		</Action>
+
+		<Action Name="DashIeCeilingLeftEdgeFromJump" Type="Sequence" Loop="false">
+			<ActionReference Name="Dash" TargetX="${mascot.environment.activeIE.left+Math.random()*20+20}" />
+			<ActionReference Name="Falling" InitialVX="${-5-Math.random()*2}" InitialVY="${-20-Math.random()*5}"/>
+			<ActionReference Name="Bouncing" />
+		</Action>
+
+		<Action Name="DashIeCeilingRightEdgeFromJump" Type="Sequence" Loop="false">
+			<ActionReference Name="Dash" TargetX="${mascot.environment.activeIE.right-Math.random()*20-20}" />
+			<ActionReference Name="Falling" InitialVX="${5+Math.random()*2}" InitialVY="${-20-Math.random()*5}"/>
+			<ActionReference Name="Bouncing" />
+		</Action>
+
+		<Action Name="HoldOntoIEWall" Type="Sequence" Loop="false">
+			<ActionReference Name="ClimbWall" TargetY="${mascot.environment.activeIE.top+100 + Math.random()*(mascot.environment.activeIE.height-200)}" />
+		</Action>
+
+		<Action Name="ClimbIEWall" Type="Sequence" Loop="false">
+			<ActionReference Name="ClimbWall" TargetY="#{mascot.environment.activeIE.top+100}" />
+			<ActionReference Name="Offset" Y="-100" />
+			<ActionReference Name="Sit" Duration="5" />
+			<ActionReference Name="Stand" Duration="${10+Math.random()*10}" />
+			<ActionReference Name="Walk" TargetX="${mascot.lookRight ? mascot.environment.activeIE.left+Math.random()*100 : mascot.environment.activeIE.right-Math.random*100}" />
+		</Action>
+
+		<Action Name="ClimbIEBottom" Type="Sequence" Loop="false">
+			<ActionReference Name="ClimbCeiling" TargetX="${mascot.environment.activeIE.left+100+(Math.random()*mascot.environment.activeIE.width-200)}" />
+		</Action>
+
+		<Action Name="GrabIEBottomLeftWall" Type="Sequence" Loop="false">
+			<ActionReference Name="ClimbCeiling" TargetX="#{mascot.environment.activeIE.left}" />
+			<ActionReference Name="Look" />
+			<ActionReference Name="ClimbWall" TargetY="#{mascot.environment.activeIE.bottom-100}" />
+		</Action>
+
+		<Action Name="GrabIEBottomRightWall" Type="Sequence" Loop="false">
+			<ActionReference Name="ClimbCeiling" TargetX="#{mascot.environment.activeIE.right}" />
+			<ActionReference Name="Look" />
+			<ActionReference Name="ClimbWall" TargetY="#{mascot.environment.activeIE.bottom-100}" />
+		</Action>
+
+		<Action Name="JumpFromLeftWall" Type="Sequence" Loop="false">
+			<ActionReference Name="Jumping" TargetX="${mascot.environment.workArea.left}" TargetY="${mascot.environment.workArea.bottom-Math.random()*mascot.environment.workArea.height/4}" />
+			<ActionReference Name="GrabWall" Duration="${100+Math.random()*100}" />
+		</Action>
+
+		<Action Name="JumpFromRightWall" Type="Sequence" Loop="false">
+			<ActionReference Name="Jumping" TargetX="${mascot.environment.workArea.right}" TargetY="${mascot.environment.workArea.bottom-Math.random()*mascot.environment.workArea.height/4}" />
+			<ActionReference Name="GrabWall" Duration="${100+Math.random()*100}" />
+		</Action>
+
+		<Action Name="JumpOnIELeftWall" Type="Sequence" Loop="false">
+			<ActionReference Name="Jumping" TargetX="${mascot.environment.activeIE.left}" TargetY="${mascot.environment.activeIE.bottom-Math.random()*mascot.environment.activeIE.height/4}" />
+			<ActionReference Name="GrabWall" Duration="${100+Math.random()*100}" />
+		</Action>
+
+		<Action Name="JumpOnIERightWall" Type="Sequence" Loop="false">
+			<ActionReference Name="Jumping" TargetX="${mascot.environment.activeIE.right}" TargetY="${mascot.environment.activeIE.bottom-Math.random()*mascot.environment.activeIE.height/4}" />
+			<ActionReference Name="GrabWall" Duration="${100+Math.random()*100}" />
+		</Action>
+
+		<Action Name="ThrowIEFromLeft" Type="Sequence" Loop="false">
+			<ActionReference Name="Jumping" TargetX="${mascot.environment.activeIE.left}" TargetY="${mascot.environment.activeIE.bottom+100}" />
+			<ActionReference Name="FallWithIe" />
+			<ActionReference Name="WalkWithIe" TargetX="#{mascot.environment.workArea.right-400}" />
+			<ActionReference Name="ThrowIe" />
+			<ActionReference Name="Stand" Duration="${50+Math.random()*50}" />
+			<ActionReference Name="Look" />
+			<ActionReference Name="Stand" Duration="${50+Math.random()*50}" />
+		</Action>
+		<Action Name="ThrowIEFromRight" Type="Sequence" Loop="false">
+			<ActionReference Name="Jumping" TargetX="${mascot.environment.activeIE.right}" TargetY="${mascot.environment.activeIE.bottom+100}" />
+			<ActionReference Name="FallWithIe" />
+			<ActionReference Name="WalkWithIe" TargetX="#{mascot.environment.workArea.left+400}" />
+			<ActionReference Name="ThrowIe" />
+			<ActionReference Name="Stand" Duration="${50+Math.random()*50}" />
+			<ActionReference Name="Look" />
+			<ActionReference Name="Stand" Duration="${50+Math.random()*50}" />
+		</Action>
+		<Action Name="WalkAndThrowIEFromRight" Type="Sequence" Loop="false">
+			<ActionReference Name="Jumping" TargetX="${mascot.environment.activeIE.left}" TargetY="${mascot.environment.activeIE.bottom+100}" />
+			<ActionReference Name="FallWithIe" />
+			<ActionReference Name="RunWithIe" TargetX="#{mascot.environment.workArea.right-400}" />
+			<ActionReference Name="ThrowIe" />
+			<ActionReference Name="Stand" Duration="${50+Math.random()*50}" />
+			<ActionReference Name="Look" />
+			<ActionReference Name="Stand" Duration="${50+Math.random()*50}" />
+		</Action>
+		<Action Name="WalkAndThrowIEFromLeft" Type="Sequence" Loop="false">
+			<ActionReference Name="Jumping" TargetX="${mascot.environment.activeIE.right}" TargetY="${mascot.environment.activeIE.bottom+100}" />
+			<ActionReference Name="FallWithIe" />
+			<ActionReference Name="RunWithIe" TargetX="#{mascot.environment.workArea.left+400}" />
+			<ActionReference Name="ThrowIe" />
+			<ActionReference Name="Stand" Duration="${50+Math.random()*50}" />
+			<ActionReference Name="Look" />
+			<ActionReference Name="Stand" Duration="${50+Math.random()*50}" />
+		</Action>
+
+		<Action Name="ChaseMouse" Type="Sequence" Loop="false">
+			<Action Type="Sequence" Condition="${mascot.environment.ceiling.isOn(mascot.anchor) || mascot.environment.activeIE.bottomBorder.isOn(mascot.anchor)}">
+				<ActionReference Name="Offset" Y="1" />
+				<ActionReference Name="Falling"/>
+				<ActionReference Name="Bouncing" />
+			</Action>
+			<Action Type="Sequence" Condition="${mascot.environment.workArea.leftBorder.isOn(mascot.anchor) || mascot.environment.activeIE.rightBorder.isOn(mascot.anchor)}">
+				<ActionReference Name="Offset" X="1" />
+				<ActionReference Name="Falling"/>
+				<ActionReference Name="Bouncing" />
+			</Action>
+			<Action Type="Sequence" Condition="${mascot.environment.workArea.rightBorder.isOn(mascot.anchor) || mascot.environment.activeIE.leftBorder.isOn(mascot.anchor)}">
+				<ActionReference Name="Offset" X="-1" />
+				<ActionReference Name="Falling"/>
+				<ActionReference Name="Bouncing" />
+			</Action>
+			<Action Type="Select">
+				<ActionReference Name="DashIeCeilingLeftEdgeFromJump"
+					Condition="${mascot.environment.activeIE.topBorder.isOn(mascot.anchor) &amp;&amp;
+					mascot.anchor.x &lt; (mascot.environment.activeIE.left+mascot.environment.activeIE.right)/2}"/>
+				<ActionReference Name="DashIeCeilingRightEdgeFromJump"
+					Condition="${mascot.environment.activeIE.topBorder.isOn(mascot.anchor) &amp;&amp;
+					mascot.anchor.x &gt;= (mascot.environment.activeIE.left+mascot.environment.activeIE.right)/2}" />
+			</Action>
+			<ActionReference Name="Dash" TargetX="${ mascot.anchor.x+(mascot.environment.cursor.x-mascot.anchor.x)*Math.random()/2 }" />
+			<ActionReference Name="Tripping" Condition="${Math.random() &lt; 0.05}" />
+			<ActionReference Name="Dash" TargetX="${ mascot.anchor.x+(mascot.environment.cursor.x-mascot.anchor.x)*Math.random() }" />
+			<ActionReference Name="Tripping" Condition="${Math.random() &lt; 0.05}" />
+			<ActionReference Name="Dash" TargetX="#{mascot.environment.cursor.x+Gap}"
+				Gap="${ mascot.anchor.x &lt; mascot.environment.cursor.x ?
+					-Math.min( mascot.environment.cursor.x-mascot.anchor.x, Math.random()*200) :
+					Math.min( mascot.anchor.x-mascot.environment.cursor.x, Math.random()*200 ) }" />
+			<ActionReference Name="Look" LookRight="${mascot.anchor.x &lt; mascot.environment.cursor.x}" />
+		</Action>
+
+		
+		<Action Name="PullUpShimeji1" Type="Embedded" Class="com.group_finity.mascot.action.Breed"
+			BornX="-32" BornY="96" BornBehavior="PullUp">
+			<Animation>
+				<Pose Image="/joy/joy_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_5.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_6.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_7.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_8.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_9.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_10.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_11.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_12.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_13.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_14.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_15.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_16.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_17.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_18.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_19.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_20.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_21.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_22.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_23.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_24.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_25.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_26.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_27.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_28.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_29.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_30.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_31.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_32.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_33.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_34.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_35.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_36.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_37.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_38.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+
+			</Animation>
+		</Action>
+		<Action Name="PullUpShimeji2" Type="Animate">
+			<Animation>
+				<Pose Image="/surprise/surprise_1.png" ImageAnchor="50,200" Velocity="20,-20" Duration="1" />
+				<Pose Image="/surprise/surprise_2.png" ImageAnchor="50,200" Velocity="20,-10" Duration="1" />
+				<Pose Image="/surprise/surprise_3.png" ImageAnchor="50,200" Velocity="20,-10" Duration="1" />
+				<Pose Image="/surprise/surprise_4.png" ImageAnchor="50,200" Velocity="20,-5" Duration="1" />
+			</Animation>
+		</Action>
+		<Action Name="PullUpShimeji" Type="Sequence">
+			<ActionReference Name="PullUpShimeji1" />
+			<ActionReference Name="PullUpShimeji2" />
+			<ActionReference Name="Falling" InitialVX="${mascot.lookRight ? -20 : 20}"/>
+			<ActionReference Name="Bouncing" />
+			<ActionReference Name="Sprawl" Duration="40" />
+		</Action>
+
+		<Action Name="PullUp" Type="Sequence">
+			<ActionReference Name="Falling" InitialVX="${mascot.lookRight ? 10 : -10}" InitialVY="-40"/>
+			<ActionReference Name="Bouncing" />
+		</Action>
+		<Action Name="Divide1" Type="Embedded" Class="com.group_finity.mascot.action.Breed"
+			BornX="-16" BornY="0" BornBehavior="Divided">
+			<Animation>
+				<Pose Image="/joy/joy_1.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_2.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_3.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_4.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_5.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_6.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_7.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_8.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_9.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_10.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_11.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_12.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_13.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_14.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_15.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_16.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_17.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_18.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_19.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_20.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_21.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_22.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_23.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_24.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_25.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_26.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_27.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_28.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_29.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_30.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_31.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_32.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_33.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_34.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_35.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_36.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_37.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+				<Pose Image="/joy/joy_38.png" ImageAnchor="100,190" Velocity="0,0" Duration="3" />
+			</Animation>
+		</Action>
+		<Action Name="SplitIntoTwo" Type="Sequence">
+			<ActionReference Name="Divide1" />
+			<ActionReference Name="Offset" X="16" />
+			<ActionReference Name="Look" />
+			<ActionReference Name="Divided" />
+		</Action>
+		<Action Name="Divided" Type="Sequence">
+			<ActionReference Name="Falling" InitialVX="${mascot.lookRight ? 10 : -10}" InitialVY="-5"/>
+			<ActionReference Name="Bouncing" />
+		</Action>
+	</ActionList>
+
+</Mascot>
